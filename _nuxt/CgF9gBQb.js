@@ -1,0 +1,1 @@
+import{_ as t}from"./BPOq_T2x.js";import{_ as r,o as a,c,b as n,p as s}from"./BPgmMDcl.js";import"./6etjpa20.js";const _={},p={class:"dt-vertical-wrapper dt-horizontal-wrapper"};function l(e,d){const o=t;return a(),c("div",p,[n(o),s(e.$slots,"default")])}const u=r(_,[["render",l]]);export{u as default};
