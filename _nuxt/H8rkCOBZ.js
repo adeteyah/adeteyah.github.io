@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as n,J as t}from"./2GQtgVHi.js";const _={},s={class:"grid grid-flow-row gap-12"};function a(e,r){return c(),n("div",s,[t(e.$slots,"default")])}const u=o(_,[["render",a]]),d={},i={class:"w-full border-t-2 border-current opacity-10"};function f(e,r){return c(),n("div",i)}const p=o(d,[["render",f]]);export{p as _,u as a};

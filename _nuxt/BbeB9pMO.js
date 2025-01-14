@@ -1,1 +1,0 @@
-import{_ as t,o,c as n,a as r}from"./B3BwD-6y.js";const s={name:"IcBaselineArrowOutward"},a={xmlns:"http://www.w3.org/2000/svg",width:"1em",height:"1em",viewBox:"0 0 22 22"};function c(_,e,p,i,l,m){return o(),n("svg",a,e[0]||(e[0]=[r("path",{fill:"currentColor",d:"M6 6v2h8.59L5 17.59L6.41 19L16 9.41V18h2V6z"},null,-1)]))}const w=t(s,[["render",c]]);export{w as _};
