@@ -1,1 +1,0 @@
-import{_ as t}from"./L7f5SND0.js";import{_ as r,o as a,c,b as n,q as s}from"./D5TEa6t_.js";const _={},p={class:"dt-vertical-wrapper dt-horizontal-wrapper"};function l(e,d){const o=t;return a(),c("div",p,[n(o),s(e.$slots,"default")])}const m=r(_,[["render",l]]);export{m as default};
